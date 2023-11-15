@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let mwssage = "Hello Git"
+    let mwssage = "Hello Git hello"
 
     override func viewDidLoad() {
         super.viewDidLoad()
